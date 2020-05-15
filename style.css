@@ -1,0 +1,26 @@
+nav{
+    background: #311b92;
+    border-radius: 10px;
+    box-shadow: black 10px;
+}
+body
+{
+    background-color: #448aff;
+}
+
+th{
+    padding-left: 250px;
+}
+
+table{
+    border-style:solid;
+    border: 1;
+}
+
+img{
+    width:100px;
+    height:100px;
+}
+.image{
+    border-radius:50%;
+}
